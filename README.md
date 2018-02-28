@@ -1,25 +1,9 @@
-# THIS PROJECT IS DISCONTINUED! FEEL FREE TO FORK AND WORK ON ;)
-
 # About
 This project provides the abilty to establish MQTT connections and to perform MQTT communication using Qt.
 This library consists of two parts:
 
  - Qt/C++ Library
  - QML Plugin
-
-## Credits
-For the most part it's a "merge" of the work of the people mentioned below, marely refactored for the sake of readability and to fit particular needs.
-
-Special thanks to the owners of the used repositories and contributors:
-
- - [@MacroBull](https://github.com/MacroBull)
- - [@ndesai](https://github.com/ndesai)
- - [@erylee](https://github.com/erylee)
- - [@tipih](https://github.com/tipih)
- - [@Kampfgnom](https://github.com/Kampfgnom)
- - [@wuming123057](https://github.com/wuming123057)
-
-There are much more contributors which aren't less important! Please refer to the licence headers in each file and the repositories below for detailed information about authors.
 
 Sourcecode taken from:
  - [qmqtt] (https://github.com/emqtt/qmqtt)
@@ -32,6 +16,7 @@ This library has been compiled and tested on:
  - Fedora 22 x64 - Qt 5.5.1
  - Android NDK r10e-rc4 (64-bit) - Qt 5.5.1
  - Windows 7 x64 - Qt 5.5.1
+ - Debian 9 x64
 
 # Build
     git clone https://github.com/toni1991/QtMqtt.git && cd QtMqtt
